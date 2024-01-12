@@ -24,7 +24,7 @@ LOGISTICS
  
 - Others:
   - The official language in the class is English. 
-  - The solutions to homeworks should be written either in latex (highly recommended) or in text editor. Hand-written solutions are not accepted.
+  - The solutions to homeworks should be written either in latex (highly recommended) or in a text editor, e.g. MS Word. Hand-written solutions are not accepted.
   - A strict policy against cheating, copying (either from peer students or from materials on the internet or on print) and other dishonest behaviors will be applied; expect an "F" grade. 
 
 
