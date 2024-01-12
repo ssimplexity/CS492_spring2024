@@ -18,7 +18,7 @@ LOGISTICS
 
 - Grading: 
   - Homeworks, Participation, Quiz 20%, Project 10%, Midterm exam 35%, Final exam 35%.
-  - Project: Students choose a subject related with the course (e.g. a section from the textbooks used in the class, classic or recent papers), and produce a short video explaining the material. One can form a team consisting of up to three students.
+  - Project: Students choose a subject related with the course (e.g. a section from the textbooks used in the class, classic or recent papers), and produce a short video explaining the material. You can form a team consisting of up to three members.
   - Participants of the [PACE Challenge 2024](https://pacechallenge.org/2024/) with qualified solutions will get 10% bonus credits on top of their final credits.
   
  
