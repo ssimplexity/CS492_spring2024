@@ -1,4 +1,4 @@
-Algorithms for NP-hard Problems (CS492), Spring 2024
+Algorithms for NP-hard Problems (KAIST CS492), Spring 2024
 ====================
 
 
