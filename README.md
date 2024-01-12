@@ -1,3 +1,5 @@
+theme: jekyll-theme-minimal
+
 CS492 spring2024
 
 A First Level Header
