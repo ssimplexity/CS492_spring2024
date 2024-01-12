@@ -52,12 +52,12 @@ Course Plan
 - Week 7: Algebraic technique.
 - Week 8: Mid-term exam.
 - Week 9: Algorithms for CNF-SAT.
-- Week 10: Counting algorithms.
+- Week 10: Counting algorithms. Topic Proposal for the project.
 - Week 11: Balanced separator and its applications. Homework 3.
 - Week 12: Introduction to approximation algorithms.
 - Week 13: Primal-dual approach.
 - Week 14: LP-based rounding. Homework 4.
 - Week 15: SDP-based rounding.
-- Week 16: Final exam.
+- Week 16: Final exam. Submission of the video presentation.
 
 
