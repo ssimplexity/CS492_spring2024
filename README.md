@@ -10,7 +10,7 @@ LOGISTICS
   
 - Schedule: 
   - On-site lectures, Tuesday and Thursday 9:00-10:30.
-  - 18-22 March: No lecture (a makeup class will be scheduled or other lectures will be stretched).
+  - 18-22 March: No on-site lecture (a makeup class will be scheduled or other lectures will be stretched).
   - 15-19 April: Midterm exam.
   - 10-14 June: Final exam.
      
@@ -46,7 +46,7 @@ Course Plan
 - Week 1: Introduction. Branching-based algorithms.
 - Week 2: Kernelization.
 - Week 3: Interative compression and randomized algorithms. Homework 1.
-- Week 4: No lecture 
+- Week 4: No on-site lecture 
 - Week 5: Hardness in parameterized complexity. (S)ETH-hardness. 
 - Week 6: Dynamic programming. Homework 2.
 - Week 7: Algebraic technique.
