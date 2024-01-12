@@ -1,1 +1,1 @@
-# cs492_spring2024
+CS492 spring2024
