@@ -46,18 +46,18 @@ Course Plan
 - Week 1: Introduction. Branching-based algorithms.
 - Week 2: Kernelization.
 - Week 3: Interative compression and randomized algorithms. Homework 1.
-- Week 4: No on-site lecture 
+- Week 4: Guest lecture by [Sebastian Wiederrecht](https://www.wiederrecht.com/).
 - Week 5: Hardness in parameterized complexity. (S)ETH-hardness. 
-- Week 6: Dynamic programming. Homework 2.
+- Week 6: Tree-decomposition and algorithms. Homework 2.
 - Week 7: Algebraic technique.
 - Week 8: Mid-term exam.
 - Week 9: Algorithms for CNF-SAT.
-- Week 10: Counting algorithms. Topic Proposal for the project.
-- Week 11: Balanced separator and its applications. Homework 3.
-- Week 12: Introduction to approximation algorithms.
-- Week 13: Primal-dual approach.
-- Week 14: LP-based rounding. Homework 4.
-- Week 15: SDP-based rounding.
+- Week 10: Balanced separator and its applications. Homework 3. Topic Proposal for the project.
+- Week 11: Introduction to approximation algorithms.
+- Week 12: Primal-dual approach.
+- Week 13: LP-based rounding. 
+- Week 14: SDP-based rounding. Homework 4.
+- Week 15: TBD.
 - Week 16: Final exam. Submission of the video presentation.
 
 
