@@ -51,7 +51,7 @@ Course Plan
 - Week 6: Tree-decomposition and algorithms. Homework 2.
 - Week 7: Algebraic technique.
 - Week 8: Mid-term exam.
-- Week 9: Algorithms for CNF-SAT.
+- Week 9: Dynamic programming over subsets. Algorithms for CNF-SAT.
 - Week 10: Balanced separator and its applications. Homework 3. Topic Proposal for the project.
 - Week 11: Introduction to approximation algorithms.
 - Week 12: Primal-dual approach.
