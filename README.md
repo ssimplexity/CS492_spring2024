@@ -10,7 +10,7 @@ LOGISTICS
   
 - Schedule: 
   - On-site lectures, Tuesday and Thursday 9:00-10:30.
-  - 18-22 March: No on-site lecture (a makeup class will be scheduled or other lectures will be stretched).
+  - 18-22 March: Guest lecturer, [Sebastian Wiederrecht](https://www.wiederrecht.com/)
   - 15-19 April: Midterm exam.
   - 10-14 June: Final exam.
      
@@ -19,7 +19,7 @@ LOGISTICS
 - Grading: 
   - Homeworks, Participation, Quiz 20%, Project 10%, Midterm exam 35%, Final exam 35%.
   - Project: Students choose a subject related with the course (e.g. a section from the textbooks used in the class, classic or recent papers), and produce a short video explaining the material. You can form a team consisting of up to three members.
-  - Participants of the [PACE Challenge 2024](https://pacechallenge.org/2024/) with qualified solutions will get 10% bonus credits on top of their final credits.
+  - Participants of the [PACE Challenge 2024](https://pacechallenge.org/2024/) with qualified solutions will get 10% bonus credits on top of their final credits. (Valid: Exact Track and Parameter Tracks)
   
  
 - Others:
