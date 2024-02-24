@@ -47,7 +47,7 @@ Course Plan
 - Week 2: Kernelization.
 - Week 3: Interative compression and randomized algorithms. Homework 1.
 - Week 4: Guest lecture by [Sebastian Wiederrecht](https://www.wiederrecht.com/).
-- Week 5: Hardness in parameterized complexity. (S)ETH-hardness. 
+- Week 5: Hardness in parameterized complexity. 
 - Week 6: Tree-decomposition and algorithms. Homework 2.
 - Week 7: Algebraic technique.
 - Week 8: Mid-term exam.
