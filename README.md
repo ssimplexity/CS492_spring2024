@@ -12,8 +12,8 @@ LOGISTICS
 - Schedule: 
   - On-site lectures, Tuesday and Thursday 9:00-10:30.
   - 18-22 March: Guest lecturer, [Sebastian Wiederrecht](https://www.wiederrecht.com/)
-  - 15-19 April: Midterm exam period. No lecture. Exam is at 16 April 9h00-11h45.
-  - 10-14 June: Final exam period. No lecture. Exam is at 11 June 9h00-11h45.
+  - 15-19 April: Midterm exam period. No lecture. Exam is at 9h00-11h45, 16 April.
+  - 10-14 June: Final exam period. No lecture. Exam is at 9h00-11h45, 11 June.
      
 - Office hour: Wednesday 10:30-12:00 at 3406 E3-1.
 
