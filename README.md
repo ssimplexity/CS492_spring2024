@@ -17,8 +17,6 @@ LOGISTICS
   - 15-19 April: Midterm exam period. No lecture. Exam is at 9h00-11h45, 16 April.
   - 10-14 June: Final exam period. No lecture. Exam is at 9h00-11h45, 11 June.
      
-- Office hour: Wednesday 10:30-12:00 at 3406 E3-1.
-
 - Grading: 
   - Homeworks, Participation, Quiz 20%, Project 10%, Midterm exam 35%, Final exam 35%.
   - Project: Students choose a subject related with the course (e.g. a section from the textbooks used in the class, classic or recent papers), and produce a short video explaining the material. You can form a team consisting of up to three members.
