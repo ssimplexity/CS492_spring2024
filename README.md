@@ -27,7 +27,7 @@ LOGISTICS
   - The official language in the class is English. 
   - The solutions to homeworks should be written either in latex (highly recommended) or in a text editor, e.g. MS Word. The assignment needs to be submitted before the indicated deadline on [KLMS](https://klms.kaist.ac.kr/course/view.php?id=156156). 
 Hand-written solutions or submissions after the deadline are not accepted.
-  - A strict policy against cheating, copying (either from peer students or from materials on the internet or on print) and other dishonest behaviors will be applied; expect an "F" grade. 
+  - A strict policy against dishonest behaviors will be applied; expect an "F" grade. 
 
 
 Course Description
