@@ -5,9 +5,11 @@ Algorithms for NP-hard Problems (KAIST CS492), Spring 2024
 LOGISTICS
 ---------------------
 - Lecturer: Eunjung KIM, eunjung.kim@kaist.ac.kr
+- Lecture Room: 2443 in Building E3
+- Lecturer office hour: Wednesday 10:00-11:30 at 4306, E3-1
+  
 - Teaching Assistant: Sangyoon KIM, ksy980418@kaist.ac.kr
 
-- Lecture Room: 2443 in Building E3
   
 - Schedule: 
   - On-site lectures, Tuesday and Thursday 9:00-10:30.
