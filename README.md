@@ -6,7 +6,7 @@ LOGISTICS
 ---------------------
 - Lecturer: Eunjung KIM, eunjung.kim@kaist.ac.kr
 - Lecture Room: 2443 in Building E3
-- Lecturer office hour: Wednesday 10:00-11:30 at 4306, E3-1
+- Lecturer office hour: Wednesday 10:00-11:30 at 3406, E3-1
   
 - Teaching Assistant: Sangyoon KIM, ksy980418@kaist.ac.kr, Office at N5 2320
 
