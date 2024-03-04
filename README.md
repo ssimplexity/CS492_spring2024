@@ -38,9 +38,12 @@ Most computational problems are NP-hard, and we cannot expect to solve them (i) 
 Discrete Mathematics (CS204), Data Structure (CS206), Introduction to Algorithms (CS300).
 
 - Course Materials.
+  Main Textbooks
   - Parameterized Algorithms, Marek Cygan, Fedor V. Fomin, Lukasz Kowalik, Daniel Lokshtanov, Dániel Marx, Marcin Pilipczuk, Michał Pilipczuk and Saket Saurabh, Springer 2015, https://www.mimuw.edu.pl/~malcin/book/parameterized-algorithms.pdf
   - Approximation Algorithms, Vijay Vazirani, Springer 2001 https://link.springer.com/book/10.1007/978-3-662-04565-7
-  - Additional materials will be presented in the class.
+
+  References.
+  - Graph Theory, Reinhard Diestel, Graph Theory (Graduate Texts in Mathematics, 173) 5th edition, Springer 2016/2017. [Free online](https://diestel-graph-theory.com/)
 
  
 Course Plan
