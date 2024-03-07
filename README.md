@@ -55,6 +55,7 @@ Course Plan
 - Week 1: Introduction. Branching-based algorithms. 
   [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek01%5Dbranching_algorithm.pdf). Chapter 3.1, 3.3, 3.4 from Cygan et al.
 - Week 2: Kernelization. Chapter 2.2-2.5, 9.1 from Cygan et al.
+  [Lecture Note, Part I](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek02%5Dkernelization_part_I.pdf).
 - Week 3: Interative compression and randomized algorithms. Chapter 4.1, 4.3, 4.4, 5.1-5.3 from Cygan et al. Homework 1.
 - Week 4: Guest lecture by [Sebastian Wiederrecht](https://www.wiederrecht.com/).
 - Week 5: Tree-decomposition and algorithms. 
