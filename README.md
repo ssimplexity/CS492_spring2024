@@ -2,6 +2,10 @@ Algorithms for NP-hard Problems (KAIST CS492), Spring 2024
 ====================
 
 
+NEWS
+---------------------
+- 7 March: Handwritten slides for lectures Week 1 and 2 are on KLMS.
+
 LOGISTICS
 ---------------------
 - Lecturer: Eunjung KIM, eunjung.kim@kaist.ac.kr
