@@ -51,25 +51,32 @@ Discrete Mathematics (CS204), Data Structure (CS206), Introduction to Algorithms
   - Graph Theory, Reinhard Diestel, Graph Theory (Graduate Texts in Mathematics, 173) 5th edition, Springer 2016/2017. [Free online](https://diestel-graph-theory.com/)
 
  
-Course Plan
+Course Plan (liable to be adjusted)
 ------------
-- Week 1: Introduction. Branching-based algorithms. 
+- 27 Feb: Introduction. Branching-based algorithm, part I 
   [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek01%5Dbranching_algorithm.pdf). Chapter 3.1, 3.3, 3.4 from Cygan et al.
-- Week 2: Kernelization. Chapter 2.2-2.5, 9.1 from Cygan et al.
+- 29 Feb: Branching-based algorithm, part II
+- 5 March: Basics of Kernelization.
+  Chapter 2.2-2.5, 9.1 from Cygan et al.
   [Lecture Note, Part I](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek02%5Dkernelization_part_I.pdf).
-- Week 3: Interative compression and randomized algorithms. Chapter 4.1, 4.3, 4.4, 5.1-5.3 from Cygan et al. Homework 1.
-- Week 4: Guest lecture by [Sebastian Wiederrecht](https://www.wiederrecht.com/).
-- Week 5: Tree-decomposition and algorithms. 
-- Week 6: Dynamic programming over subsets. Algorithms for CNF-SAT. 
-- Week 7: Hardness in parameterized complexity. (S)-ETH hardness. Homework 2.
+- 7 March: More on Kernelization: Vertex Cover, A bit of Feedback Vertex Set.
+- 12 March: Quadratic kernel for Feedback Vertex Set. [Lecture Note, Part II](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek02%5Dkernelization_part_II.pdf) Homework 1 out.
+- 14 March: Interative compression. Chapter 4.1, 4.3 from Cygan et al. 
+- 19, 21 March: Guest lecture by [Sebastian Wiederrecht](https://www.wiederrecht.com/).
+- 26 March: Randomized technique for FPT algorithm. 4.4, 5.1-5.3 from Cygan et al. Homework 2 out.
+- 28 March: Tree-decomposition I
+- 2 April: Tree-decomposition II
+- 4 April: Dynamic programming over subsets. Homework 3 out.
+- 9 April: Algorithms for CNF-SAT. 
+- 11 April: Hardness in parameterized complexity. 
 - Week 8: Mid-term exam.
-- Week 9: Algebraic technique.
-- Week 10: Balanced separator and its applications. Topic Proposal for the project.
-- Week 11: Introduction to approximation algorithms. Homework 3. 
-- Week 12: Primal-dual approach.
-- Week 13: LP-based rounding. 
-- Week 14: SDP-based rounding. Homework 4.
-- Week 15: TBD.
+- Week 9: Hardness in parameterized complexity. Exponential Time Hypothesis. Homework 4 out. Topic Proposal for the project.
+- Week 10: Algebraic technique.
+- Week 11: Balanced separator and its applications. Homework 5 out.
+- Week 12: Introduction to approximation algorithms. 
+- Week 13: Primal-dual approach. Homework 6 out.
+- Week 14: LP-based rounding. 
+- Week 15: SDP-based rounding. Homework 7 out.
 - Week 16: Final exam. Submission of the video presentation.
 
 
