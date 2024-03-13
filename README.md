@@ -66,8 +66,8 @@ Course Plan (liable to be adjusted)
 - 26 March: Randomized technique for FPT algorithm. 4.4, 5.1-5.3 from Cygan et al. Homework 2 out.
 - 28 March: Tree-decomposition I
 - 2 April: Tree-decomposition II
-- 4 April: Dynamic programming over subsets. Homework 3 out.
-- 9 April: Algorithms for CNF-SAT. 
+- 4 April: Dynamic programming over subsets. 
+- 9 April: Algorithms for CNF-SAT. Homework 3 out.
 - 11 April: Hardness in parameterized complexity. 
 - Week 8: Mid-term exam.
 - Week 9: Hardness in parameterized complexity. Exponential Time Hypothesis. Homework 4 out. Topic Proposal for the project.
