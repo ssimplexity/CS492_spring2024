@@ -4,9 +4,9 @@ Algorithms for NP-hard Problems (KAIST CS492), Spring 2024
 
 <span style="color:red">NEWS</span>
 ---------------------
-- 7 March: Handwritten slides for lectures Week 1 and 2 are on KLMS. Lecture Note of Kernelization Part I is available now.
-- 12 March: Homework 1 is available at KLMS. The deadline is 26th March midnight.
 - 13 March: Lecture Note of Kernelization Part II is available.
+- 12 March: Homework 1 is available at KLMS. The deadline is 26th March midnight.
+- 7 March: Handwritten slides for lectures Week 1 and 2 are on KLMS. Lecture Note of Kernelization Part I is available now.
 
 LOGISTICS
 ---------------------
