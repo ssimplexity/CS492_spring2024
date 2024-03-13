@@ -53,7 +53,7 @@ Discrete Mathematics (CS204), Data Structure (CS206), Introduction to Algorithms
  
 Course Plan (liable to be adjusted)
 ------------
-- 27 Feb: Introduction. Branching-based algorithm, part I 
+- 27 Feb: Introduction. Branching-based algorithm, part I. 
   [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek01%5Dbranching_algorithm.pdf). Chapter 3.1, 3.3, 3.4 from Cygan et al.
 - 29 Feb: Branching-based algorithm, part II
 - 5 March: Basics of Kernelization.
