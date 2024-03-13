@@ -62,7 +62,7 @@ Course Plan (liable to be adjusted)
 - 7 March: More on Kernelization: Vertex Cover, A bit of Feedback Vertex Set.
 - 12 March: Quadratic kernel for Feedback Vertex Set. [Lecture Note, Part II](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek02%5Dkernelization_part_II.pdf) Homework 1 out.
 - 14 March: Interative compression. Chapter 4.1, 4.3 from Cygan et al. 
-- 19, 21 March: Guest lecture by [Sebastian Wiederrecht](https://www.wiederrecht.com/). On "matching", inside out, as time permits.
+- 19, 21 March: Guest lecture by [Sebastian Wiederrecht](https://www.wiederrecht.com/). On maximum matching, inside out, as time permits.
 - 26 March: Randomized technique for FPT algorithm. 4.4, 5.1-5.3 from Cygan et al. Homework 2 out.
 - 28 March: Tree-decomposition I
 - 2 April: Tree-decomposition II
