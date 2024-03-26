@@ -66,18 +66,18 @@ Course Plan (liable to be adjusted)
 - 19, 21 March: Guest lecture by [Sebastian Wiederrecht](https://www.wiederrecht.com/). On maximum matching.
 - 26 March: Randomized technique for FPT algorithm. 4.4, 5.1-5.3 from Cygan et al. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek05%5Drandomized.pdf).
 - 28 March: Tree-decomposition I
-- 2 April: Tree-decomposition II
+- 2 April: Tree-decomposition II. Homework 2 out.
 - 4 April: Dynamic programming over subsets. 
-- 9 April: Algorithms for CNF-SAT. Homework 3 out.
+- 9 April: Algorithms for CNF-SAT. 
 - 11 April: Hardness in parameterized complexity. 
 - Week 8: Mid-term exam.
-- Week 9: Hardness in parameterized complexity. Exponential Time Hypothesis. Homework 4 out. Topic Proposal for the project.
+- Week 9: Hardness in parameterized complexity. Exponential Time Hypothesis. Homework 3 out. Topic Proposal for the project.
 - Week 10: Algebraic technique.
-- Week 11: Balanced separator and its applications. Homework 5 out.
+- Week 11: Balanced separator and its applications. Homework 4 out.
 - Week 12: Introduction to approximation algorithms. 
-- Week 13: Primal-dual approach. Homework 6 out.
+- Week 13: Primal-dual approach. Homework 5 out.
 - Week 14: LP-based rounding. 
-- Week 15: SDP-based rounding. Homework 7 out.
+- Week 15: SDP-based rounding. Homework 6 out.
 - Week 16: Final exam. Submission of the video presentation.
 
 
