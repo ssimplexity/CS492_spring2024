@@ -66,7 +66,7 @@ Course Plan (liable to be adjusted)
 - 14 March: Interative compression. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek03%5Diterative_compression.pdf), Chapter 4.1, 4.3 from Cygan et al. 
 - 19, 21 March: Guest lecture by [Sebastian Wiederrecht](https://www.wiederrecht.com/). On maximum matching.
 - 26 March: Randomized technique for FPT algorithm. 4.4, 5.1-5.3 from Cygan et al. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek05%5Drandomized.pdf).
-- 28 March: Tree-decomposition I
+- 28 March: Tree-decomposition I. 7.1-7.3 from Cygan et al.
 - 2 April: Tree-decomposition II. Homework 2 out.
 - 4 April: Dynamic programming over subsets. 
 - 9 April: Algorithms for CNF-SAT. 
