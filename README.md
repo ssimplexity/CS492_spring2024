@@ -73,13 +73,13 @@ Course Plan (liable to be adjusted)
 - 11 April: Algebraic technique. 
 - 16 April: Mid-term exam.
 - 23 April: Balanced separator and its applications. Topic Proposal for the project.
-- 25 April: Algorithms for CNF-SAT. Homework 3 out. 
-- Week 10: Hardness in parameterized complexity.
-- Week 11: Introduction to approximation algorithms. Homework 4 out.
-- Week 12: Primal-dual approach. 
-- Week 13: LP-based rounding. Homework 5 out.
+- 25 April: Algorithms for CNF-SAT. 
+- Week 10: Hardness in parameterized complexity. Homework 3 out. 
+- Week 11: Introduction to approximation algorithms. 
+- Week 12: Primal-dual approach. Homework 4 out.
+- Week 13: LP-based rounding. 
 - Week 14: SDP-based rounding. 
-- Week 15: Inapproximability. Homework 6 out.
+- Week 15: Inapproximability. Homework 5 out.
 - Week 16: Final exam. Submission of the video presentation.
 
 
