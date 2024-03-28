@@ -79,7 +79,7 @@ Course Plan (liable to be adjusted)
 - Week 12: Primal-dual approach. Homework 4 out.
 - Week 13: LP-based rounding. 
 - Week 14: SDP-based rounding. Homework 5 out.
-- Week 15: Inapproximability. 
+- Week 15: TBD.
 - Week 16: Final exam. Submission of the video presentation.
 
 
