@@ -4,6 +4,7 @@ Algorithms for NP-hard Problems (KAIST CS492), Spring 2024
 
 <span style="color:red">NEWS</span>
 ---------------------
+- 3 April: Lecture note for tree decomposition Part I is available now.
 - 26 March: gradescope is now connected on KLMS for submitting HW #1 as an activity/resource in Week 5. The deadline is extended by 24hrs in case you have an issue submitting the solution. ([ref](https://www.gradescope.com/get_started#create-homework))
 - 13 March: Lecture Note of Kernelization Part II is available.
 - 12 March: Homework 1 is available at KLMS. The deadline is 26th March midnight.
