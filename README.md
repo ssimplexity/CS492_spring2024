@@ -4,6 +4,7 @@ Algorithms for NP-hard Problems (KAIST CS492), Spring 2024
 
 <span style="color:red">NEWS</span>
 ---------------------
+- 8 April: Lecture note for tree decomposition Part II is available now.
 - 7 April: (Advertisement) A website and the registration site for an upcoming summer school is open now. You're welcome to attend! Check out more details here: https://combialgo.github.io/
 - 4 April: Homework #2 is now added on KLMS as Week 6 activity. 
 - 3 April: Lecture note for tree decomposition Part I is available now.
