@@ -71,7 +71,7 @@ Course Plan (liable to be adjusted)
 - 26 March: Randomized technique for FPT algorithm. 4.4, 5.1-5.3 from Cygan et al. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek05%5Drandomized.pdf).
 - 28 March: Tree-decomposition I. 7.1-7.2 from Cygan et al. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek05%5Dtree-decomposition-I.pdf).
 - 2 April: Tree-decomposition II. 7.3 from Cygan et al.
-- 4 April: Tree-decomposition III. 7.4, 7.6 from Cygan et al. Homework 2 out. 
+- 4 April: Tree-decomposition III. 7.4, 7.6 from Cygan et al. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek06%5Dtree-decomposition-II.pdf). Homework 2 out. 
 - 9 April: Dynamic programming over subsets.  
 - 11 April: Algebraic technique. 
 - 16 April: Mid-term exam.
