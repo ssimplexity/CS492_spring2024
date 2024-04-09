@@ -73,7 +73,7 @@ Course Plan (liable to be adjusted)
 - 28 March: Tree-decomposition I. 7.1-7.2 from Cygan et al. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek05%5Dtree-decomposition-I.pdf).
 - 2 April: Tree-decomposition II. 7.3 from Cygan et al.
 - 4 April: Tree-decomposition III. 7.4, 7.6 from Cygan et al. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek06%5Dtree-decomposition-II.pdf). Homework 2 out. 
-- 9 April: Dynamic programming over subsets and IE-based algorithm. IE-based algorithm can be found in 10.1 from Cygan et al.  
+- 9 April: Dynamic programming over subsets and IE-based algorithm. 10.1 from Cygan et al.  
 - 11 April: Algebraic technique. 
 - 16 April: Mid-term exam.
 - 23 April: Balanced separator and its applications. Topic Proposal for the project.
