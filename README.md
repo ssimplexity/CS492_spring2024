@@ -4,6 +4,7 @@ Algorithms for NP-hard Problems (KAIST CS492), Spring 2024
 
 <span style="color:red">NEWS</span>
 ---------------------
+- 11 April: Regarding the mid-term exam. It will take place at 9h on 16 April (Tuesday) for 3 hours. You can bring snacks and drink (something that does not create much noise). No calculator needed. Closed book.
 - 8 April: Lecture note for tree decomposition Part II is available now.
 - 7 April: (Advertisement) A website and the registration site for an upcoming summer school is open now. You're welcome to attend! Check out more details here: https://combialgo.github.io/
 - 4 April: Homework #2 is now added on KLMS as Week 6 activity. 
@@ -51,6 +52,7 @@ Discrete Mathematics (CS204), Data Structure (CS206), Introduction to Algorithms
 
   Main Textbooks
   - Parameterized Algorithms, Marek Cygan, Fedor V. Fomin, Lukasz Kowalik, Daniel Lokshtanov, Dániel Marx, Marcin Pilipczuk, Michał Pilipczuk and Saket Saurabh, Springer 2015, https://www.mimuw.edu.pl/~malcin/book/parameterized-algorithms.pdf
+  - Exact Exponential Algorithms, Fedor Fomin and Dieter Kratsch, Springer 2010, https://link.springer.com/book/10.1007/978-3-642-16533-7
   - Approximation Algorithms, Vijay Vazirani, Springer 2001 https://link.springer.com/book/10.1007/978-3-662-04565-7
 
   References.
@@ -74,7 +76,7 @@ Course Plan (liable to be adjusted)
 - 2 April: Tree-decomposition II. 7.3 from Cygan et al.
 - 4 April: Tree-decomposition III. 7.4, 7.6 from Cygan et al. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek06%5Dtree-decomposition-II.pdf). Homework 2 out. 
 - 9 April: Dynamic programming over subsets and IE-based algorithm. 10.1 from Cygan et al.  
-- 11 April: Algebraic technique. 
+- 11 April: More IE-based algorithms and Matrix Tree Theorem. 4.2 from [Fomin and Kratsch' textbook](https://link.springer.com/book/10.1007/978-3-642-16533-7) 
 - 16 April: Mid-term exam.
 - 23 April: Balanced separator and its applications. Topic Proposal for the project.
 - 25 April: Algorithms for CNF-SAT. Homework 3 out. 
