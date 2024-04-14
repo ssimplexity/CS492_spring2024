@@ -76,7 +76,7 @@ Course Plan (liable to be adjusted)
 - 2 April: Tree-decomposition II. 7.3 from Cygan et al.
 - 4 April: Tree-decomposition III. 7.4, 7.6 from Cygan et al. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek06%5Dtree-decomposition-II.pdf). Homework 2 out. 
 - 9 April: Dynamic programming over subsets and IE-based algorithm. 10.1 from Cygan et al. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek07%5DDP%2BIE.pdf).
-- 11 April: More IE-based algorithms and Matrix Tree Theorem. 4.2 from [Fomin and Kratsch' textbook](https://link.springer.com/book/10.1007/978-3-642-16533-7) 
+- 11 April: More IE-based algorithms and Matrix Tree Theorem. 4.2 from [Fomin and Kratsch' textbook](https://link.springer.com/book/10.1007/978-3-642-16533-7) [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek07%5Dalgebraic_approach.pdf).
 - 16 April: Mid-term exam.
 - 23 April: Balanced separator and its applications. Topic Proposal for the project.
 - 25 April: Algorithms for CNF-SAT. Homework 3 out. 
