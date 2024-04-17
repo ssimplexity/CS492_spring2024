@@ -4,6 +4,7 @@ Algorithms for NP-hard Problems (KAIST CS492), Spring 2024
 
 <span style="color:red">NEWS</span>
 ---------------------
+- 17 April: Homework #2 deadline is extended to 22 April, 23h59.
 - 11 April: Regarding the mid-term exam. It will take place at 9h on 16 April (Tuesday) for 3 hours. You can bring snacks and drink (something that does not create much noise). No calculator needed. Closed book.
 - 8 April: Lecture note for tree decomposition Part II is available now.
 - 7 April: (Advertisement) A website and the registration site for an upcoming summer school is open now. You're welcome to attend! Check out more details here: https://combialgo.github.io/
