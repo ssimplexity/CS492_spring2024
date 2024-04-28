@@ -79,8 +79,8 @@ Course Plan (liable to be adjusted)
 - 9 April: Dynamic programming over subsets and IE-based algorithm. 10.1 from Cygan et al. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek07%5DDP%2BIE.pdf).
 - 11 April: More IE-based algorithms and Matrix Tree Theorem. 4.2 from [Fomin and Kratsch' textbook](https://link.springer.com/book/10.1007/978-3-642-16533-7), [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek07%5Dalgebraic_approach.pdf).
 - 16 April: Mid-term exam.
-- 23 April: Balanced separator and its applications. Topic Proposal for the project.
-- 25 April: Algorithms for CNF-SAT. Homework 3 out. 
+- 23 April: Mid-term exam revision. Topic Proposal for the project.
+- 25 April: Algorithms for CNF-SAT. 8.1 from [Fomin and Kratsch' textbook](https://link.springer.com/book/10.1007/978-3-642-16533-7)
 - Week 10: Hardness in parameterized complexity. 
 - Week 11: Introduction to approximation algorithms. 
 - Week 12: Primal-dual approach. Homework 4 out.
