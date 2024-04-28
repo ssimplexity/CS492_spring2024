@@ -81,7 +81,7 @@ Course Plan (liable to be adjusted)
 - 16 April: Mid-term exam.
 - 23 April: Mid-term exam revision. Topic Proposal for the project.
 - 25 April: Algorithms for CNF-SAT. Chapter 8.1 from [Fomin and Kratsch' textbook](https://link.springer.com/book/10.1007/978-3-642-16533-7)
-- Week 10: Hardness in parameterized complexity. 
+- Week 10: Hardness in parameterized complexity and ETH-based lower bound. 
 - Week 11: Introduction to approximation algorithms. 
 - Week 12: Primal-dual approach. Homework 4 out.
 - Week 13: LP-based rounding. 
