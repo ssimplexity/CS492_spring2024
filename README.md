@@ -72,15 +72,15 @@ Course Plan (liable to be adjusted)
 - 12 March: Quadratic kernel for Feedback Vertex Set. [Lecture Note, Part II](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek02%5Dkernelization_part_II.pdf) Homework 1 out.
 - 14 March: Interative compression. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek03%5Diterative_compression.pdf), Chapter 4.1, 4.3 from Cygan et al. 
 - 19, 21 March: Guest lecture by [Sebastian Wiederrecht](https://www.wiederrecht.com/). On maximum matching.
-- 26 March: Randomized technique for FPT algorithm. 4.4, 5.1-5.3 from Cygan et al. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek05%5Drandomized.pdf).
-- 28 March: Tree-decomposition I. 7.1-7.2 from Cygan et al. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek05%5Dtree-decomposition-I.pdf).
-- 2 April: Tree-decomposition II. 7.3 from Cygan et al.
-- 4 April: Tree-decomposition III. 7.4, 7.6 from Cygan et al. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek06%5Dtree-decomposition-II.pdf). Homework 2 out. 
-- 9 April: Dynamic programming over subsets and IE-based algorithm. 10.1 from Cygan et al. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek07%5DDP%2BIE.pdf).
-- 11 April: More IE-based algorithms and Matrix Tree Theorem. 4.2 from [Fomin and Kratsch' textbook](https://link.springer.com/book/10.1007/978-3-642-16533-7), [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek07%5Dalgebraic_approach.pdf).
+- 26 March: Randomized technique for FPT algorithm. Chapter 4.4, 5.1-5.3 from Cygan et al. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek05%5Drandomized.pdf).
+- 28 March: Tree-decomposition I. Chapter 7.1-7.2 from Cygan et al. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek05%5Dtree-decomposition-I.pdf).
+- 2 April: Tree-decomposition II. Chapter 7.3 from Cygan et al.
+- 4 April: Tree-decomposition III. Chapter 7.4, 7.6 from Cygan et al. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek06%5Dtree-decomposition-II.pdf). Homework 2 out. 
+- 9 April: Dynamic programming over subsets and IE-based algorithm. Chapter 10.1 from Cygan et al. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek07%5DDP%2BIE.pdf).
+- 11 April: More IE-based algorithms and Matrix Tree Theorem. Chapter 4.2 from [Fomin and Kratsch' textbook](https://link.springer.com/book/10.1007/978-3-642-16533-7), [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek07%5Dalgebraic_approach.pdf).
 - 16 April: Mid-term exam.
 - 23 April: Mid-term exam revision. Topic Proposal for the project.
-- 25 April: Algorithms for CNF-SAT. 8.1 from [Fomin and Kratsch' textbook](https://link.springer.com/book/10.1007/978-3-642-16533-7)
+- 25 April: Algorithms for CNF-SAT. Chapter 8.1 from [Fomin and Kratsch' textbook](https://link.springer.com/book/10.1007/978-3-642-16533-7)
 - Week 10: Hardness in parameterized complexity. 
 - Week 11: Introduction to approximation algorithms. 
 - Week 12: Primal-dual approach. Homework 4 out.
