@@ -82,7 +82,7 @@ Course Plan (liable to be adjusted)
 - 23 April: Mid-term exam revision. Topic Proposal for the project.
 - 25 April: Algorithms for CNF-SAT. Chapter 8.1 from [Fomin and Kratsch' textbook](https://link.springer.com/book/10.1007/978-3-642-16533-7)
 - 30 April: Hardness in parameterized complexity. Chapter 13 from Cygan et al. For details on the class NP and NP-completeness, check Chapter 2 of [Arora and Barak](https://theory.cs.princeton.edu/complexity/book.pdf). One can find a more comprehensive treatement on W-hierarchy in [Flum and Grohe](https://link.springer.com/book/10.1007/3-540-29953-X) and [Downey and Fellows](https://link.springer.com/book/10.1007/978-1-4612-0515-9).
-- 2 May: (S)ETH-based lower bound. 
+- 2 May: (S)ETH-based lower bound. Chapter 14 from Cygan et al.
 - Week 11: Introduction to approximation algorithms. 
 - Week 12: Primal-dual approach. Homework 4 out.
 - Week 13: LP-based rounding. 
