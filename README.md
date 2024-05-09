@@ -96,6 +96,7 @@ Course Plan (liable to be adjusted)
 - 28 May: Primal-dual method.
 - 30 May: SDP-based rounding. 
 - 4 June: Hardness of approximation.
+- 6 June: no lecture (public holiday).
 - The week of 10-14 Jun: Final exam. Submission of the video presentation.
 
 
