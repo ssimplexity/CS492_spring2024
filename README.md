@@ -88,10 +88,13 @@ Course Plan (liable to be adjusted)
 - 2 May: (S)ETH-based lower bound. Chapter 14 from Cygan et al. Homework 3 out.
 - 7 May: Introduction to approximation algorithms. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek11%5Dapprox_intro.pdf). Chapter 3 from [Vazirani](https://link.springer.com/book/10.1007/978-3-662-04565-7). Chapter 1 and 2.1 from [Chekuri's Lecture Note](https://courses.engr.illinois.edu/cs583/fa2021/approx-algorithms-lecture-notes.pdf).
 - 9 May: Layering technique. Chapter 2.2 and 6 from [Vazirani](https://link.springer.com/book/10.1007/978-3-662-04565-7).
-- Week 12: Primal-dual approach. Homework 4 out.
-- Week 13: LP-based rounding. 
-- Week 14: SDP-based rounding. Homework 5 out.
-- Week 15: TBD.
-- Week 16: Final exam. Submission of the video presentation.
+- 14 May: Approximation for cut problems.
+- 16 May: Approximation for cut problems. LP-based rounding.
+- 21 May: LP-based rounding. Homework 4 out.
+- 23 May: LP-based rounding.
+- 28 May: Primal-dual method.
+- 30 May: SDP-based rounding. 
+- 4 June: Hardness of approximation.
+- The week of 10-14 Jun: Final exam. Submission of the video presentation.
 
 
