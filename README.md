@@ -6,7 +6,7 @@ Algorithms for NP-hard Problems (KAIST CS492), Spring 2024
 ---------------------
 - 9 May: Erratum: In Homework #3, the problem "trangle packing" is to pack disjoint triangles (not cycles).
 - 8 May: Lecture Note for 7-May is updated; the previous one had some error in the last section.
-- 4 May: Homework #3 is uploaded in KLMS, to be submitted before 20 May, 23h59. You can form a team of two students if you want. Handwritten solutions will be accepted for this homework (but please do your best to make a clear handwriting). 
+- 4 May: Homework #3 is uploaded in KLMS, to be submitted before 21 May, 23h59. You can form a team of two students if you want. Handwritten solutions will be accepted for this homework (but please do your best to make a clear handwriting). 
 - 17 April: Homework #2 deadline is extended to 22 April, 23h59.
 - 11 April: Regarding the mid-term exam. It will take place at 9h on 16 April (Tuesday) for 3 hours. You can bring snacks and drink (something that does not create much noise). No calculator needed. Closed book.
 - 8 April: Lecture note for tree decomposition Part II is available now.
