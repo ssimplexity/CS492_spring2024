@@ -61,6 +61,7 @@ Discrete Mathematics (CS204), Data Structure (CS206), Introduction to Algorithms
 
   References.
   - Graph Theory, Reinhard Diestel, Graph Theory (Graduate Texts in Mathematics, 173) 5th edition, Springer 2016/2017. [Free online](https://diestel-graph-theory.com/)
+  - The design of Approximation Algorithms, David P. Williamson, David B. Shmoys, Cambridge University Press 2011. [Free online](https://www.designofapproxalgs.com/).
 
  
 Course Plan (liable to be adjusted)
