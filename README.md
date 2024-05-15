@@ -89,7 +89,7 @@ Course Plan (liable to be adjusted)
 - 2 May: (S)ETH-based lower bound. Chapter 14 from Cygan et al. Homework 3 out.
 - 7 May: Introduction to approximation algorithms. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek11%5Dapprox_intro.pdf). Chapter 3 from [Vazirani](https://link.springer.com/book/10.1007/978-3-662-04565-7). Chapter 1 and 2.1 from [Chekuri's Lecture Note](https://courses.engr.illinois.edu/cs583/fa2021/approx-algorithms-lecture-notes.pdf).
 - 9 May: Layering technique. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek11%5Dapprox_layering.pdf). Chapter 2.2 and 6 from [Vazirani](https://link.springer.com/book/10.1007/978-3-662-04565-7). 
-- 14 May: Approximation for cut problems.
+- 14 May: Approximation for cut problems. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek12%5Dcut_flow_lp_I.pdf). Chapter 4 from [Vazirani](https://link.springer.com/book/10.1007/978-3-662-04565-7)
 - 16 May: Approximation for cut problems. LP-based rounding.
 - 21 May: LP-based rounding. Homework 4 out.
 - 23 May: LP-based rounding.
