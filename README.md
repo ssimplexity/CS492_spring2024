@@ -4,6 +4,8 @@ Algorithms for NP-hard Problems (KAIST CS492), Spring 2024
 
 <span style="color:red">NEWS</span>
 ---------------------
+- *IMPORTANT* The final exame is scheduled on 8th June (Saturday), at 9am, in the same lecture room. The exam will finish at 20 minutes later once there are at most three remaining students who still take the exam. Lunch will be ordered (pizza?) and be shared during the break time at 12h. 
+- 21 May: Homework #3 deadline is extended to 24 May (Friday), 23h59.
 - 9 May: Erratum: In Homework #3, the problem "trangle packing" is to pack disjoint triangles (not cycles).
 - 8 May: Lecture Note for 7-May is updated; the previous one had some error in the last section.
 - 4 May/9 May updated: Homework #3 is uploaded in KLMS, to be submitted before 21 May, 23h59. You can form a team of two students if you want. Handwritten solutions will be accepted for this homework (but please do your best to make a clear handwriting). 
@@ -91,12 +93,13 @@ Course Plan (liable to be adjusted)
 - 9 May: Layering technique. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek11%5Dapprox_layering.pdf). Chapter 2.2 and 6 from [Vazirani](https://link.springer.com/book/10.1007/978-3-662-04565-7). 
 - 14 May: Approximation for cut problems. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek12%5Dcut_flow_lp_I.pdf). Chapter 4 from [Vazirani](https://link.springer.com/book/10.1007/978-3-662-04565-7)
 - 16 May: Approximation for cut problems. LP-based rounding. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek12%5Dcut_flow_lp_II.pdf). Chapter 12 from [Vazirani](https://link.springer.com/book/10.1007/978-3-662-04565-7).
-- 21 May: More on cut problems. LP-based rounding. Homework 4 out.
-- 23 May: LP-based rounding.
-- 28 May: Primal-dual method.
+- 21 May: More on cut problems. LP-based rounding. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek13%5Dhalf-integrality_LP_rounding.pdf).
+- 23 May: LP-based rounding.  Homework 4 out.
+- 28 May: Primal-dual method. 
 - 30 May: SDP-based rounding. 
 - 4 June: Hardness of approximation.
 - 6 June: no lecture (public holiday).
-- The week of 10-14 Jun: Final exam. Submission of the video presentation.
+- 8 June: Final exam. 
+- 16 June: Submission of the video presentation.
 
 
