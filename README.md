@@ -4,7 +4,7 @@ Algorithms for NP-hard Problems (KAIST CS492), Spring 2024
 
 <span style="color:red">NEWS</span>
 ---------------------
-- *****IMPORTANT***** The final exame is scheduled on 8th June (Saturday), at 9am, in the same lecture room. The exam will finish at 20 minutes later once there are at most three remaining students who still take the exam. Lunch will be ordered (pizza?) and be shared during the break time at 12h. 
+- *****IMPORTANT.***** ********The final exame is scheduled on 8th June (Saturday), at 9am,******* in the same lecture room. The exam will finish at 20 minutes later once there are at most three remaining students who still take the exam. Lunch will be ordered (pizza?) and be shared during the break time at 12h. 
 - 21 May: Homework #3 deadline is extended to 24 May (Friday), 23h59.
 - 9 May: Erratum: In Homework #3, the problem "trangle packing" is to pack disjoint triangles (not cycles).
 - 8 May: Lecture Note for 7-May is updated; the previous one had some error in the last section.
