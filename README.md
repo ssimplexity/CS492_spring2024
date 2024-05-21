@@ -94,8 +94,8 @@ Course Plan (liable to be adjusted)
 - 14 May: Approximation for cut problems. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek12%5Dcut_flow_lp_I.pdf). Chapter 4 from [Vazirani](https://link.springer.com/book/10.1007/978-3-662-04565-7)
 - 16 May: Approximation for cut problems. LP-based rounding. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek12%5Dcut_flow_lp_II.pdf). Chapter 12 from [Vazirani](https://link.springer.com/book/10.1007/978-3-662-04565-7).
 - 21 May: More on cut problems. LP-based rounding. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek13%5Dhalf-integrality_LP_rounding.pdf).
-- 23 May: LP-based rounding.  Homework 4 out.
-- 28 May: Primal-dual method. 
+- 23 May: LP-based rounding.  
+- 28 May: Primal-dual method. Homework 4 out.
 - 30 May: SDP-based rounding. 
 - 4 June: Hardness of approximation.
 - 6 June: no lecture (public holiday).
