@@ -4,6 +4,7 @@ Algorithms for NP-hard Problems (KAIST CS492), Spring 2024
 
 <span style="color:red">NEWS</span>
 ---------------------
+- 27 May: Lecture on 28 May is cancelled (details on KLMS and via email). 
 - *****IMPORTANT.***** ********The final exame is scheduled on 8th June (Saturday), at 9am,******* in the same lecture room. The exam will finish at 20 minutes later once there are at most three remaining students who still take the exam. Lunch will be ordered (pizza?) and be shared during the break time at 12h. 
 - 21 May: Homework #3 deadline is extended to 24 May (Friday), 23h59.
 - 9 May: Erratum: In Homework #3, the problem "trangle packing" is to pack disjoint triangles (not cycles).
@@ -95,9 +96,9 @@ Course Plan (liable to be adjusted)
 - 16 May: Approximation for cut problems. LP-based rounding. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek12%5Dcut_flow_lp_II.pdf). Chapter 12 from [Vazirani](https://link.springer.com/book/10.1007/978-3-662-04565-7).
 - 21 May: More on cut problems. LP-based rounding. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek13%5Dhalf-integrality_LP_rounding.pdf).
 - 23 May: LP-based rounding. Chapter 1.7 and 5.1-5.5 from [Williamson and Shmoys](https://www.designofapproxalgs.com/).
-- 28 May: Primal-dual method. Homework 4 out.
-- 30 May: SDP-based rounding. 
-- 4 June: Hardness of approximation.
+- 28 May: No lecture.
+- 30 May: Primal-dual method. Homework 4 out.
+- 4 June: SDP-based rounding. 
 - 6 June: no lecture (public holiday).
 - 8 June: Final exam. 
 - 16 June: Submission of the video presentation.
