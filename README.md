@@ -4,6 +4,7 @@ Algorithms for NP-hard Problems (KAIST CS492), Spring 2024
 
 <span style="color:red">NEWS</span>
 ---------------------
+- 2 June: Homework #4 is now on gradescope. The deadline is 16th June, 23h 59. 
 - 27 May: Lecture on 28 May is cancelled (details on KLMS and via email). 
 - *****IMPORTANT.***** ********The final exame is scheduled on 8th June (Saturday), at 9am,******* in the same lecture room. The exam will finish at 20 minutes later once there are at most three remaining students who still take the exam. Lunch will be ordered (pizza?) and be shared during the break time at 12h. 
 - 21 May: Homework #3 deadline is extended to 24 May (Friday), 23h59.
