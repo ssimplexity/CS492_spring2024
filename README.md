@@ -99,6 +99,7 @@ Course Plan (liable to be adjusted)
 - 23 May: LP-based rounding. Chapter 1.7 and 5.1-5.5 from [Williamson and Shmoys](https://www.designofapproxalgs.com/).
 - 28 May: No lecture.
 - 30 May: Primal-dual method. Homework 4 out. Chapter 7.3 from [Williamson and Shmoys](https://www.designofapproxalgs.com/) and chapter 13.1 from [Vazirani](https://link.springer.com/book/10.1007/978-3-662-04565-7).
+- [Leceture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek14%5Dprimal_dual_I.pdf).
 - 4 June: Primal-dual method. Chapter 7.4 from [Williamson and Shmoys](https://www.designofapproxalgs.com/), chapter 18 from [Vazirani](https://link.springer.com/book/10.1007/978-3-662-04565-7).
 - 6 June: no lecture (public holiday).
 - 8 June: Final exam. 
